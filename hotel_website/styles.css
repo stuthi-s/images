@@ -7,7 +7,6 @@ body {
     background-color: #f9f9f9;
 }
 
-
 header {
     background-color: #3f3f3f;
     color: #ffffffdb;
@@ -61,7 +60,6 @@ main p {
     max-width: 800px;
 }
 
-
 footer {
     background-color: #333;
     color: #ffffffdb;
@@ -108,8 +106,6 @@ footer .social-links a:hover {
     color: #e76f51;
     
 }
-
-
 
 @media screen and (max-width: 780px) {
     header nav ul {
